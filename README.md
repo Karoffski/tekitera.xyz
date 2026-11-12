@@ -4,7 +4,7 @@ Official website for **Tekitera** — a Paris-based digital product studio craft
 
 Built with [Next.js](https://nextjs.org) (App Router + TypeScript + Tailwind) and deployed on Vercel.
 
-**Live:** https://tekitera.vercel.app
+**Live:** https://tekitera.xyz
 
 Speed Insights enabled via `@vercel/speed-insights` for Core Web Vitals and performance monitoring.
 
